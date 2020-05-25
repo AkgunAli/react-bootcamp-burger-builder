@@ -1,4 +1,4 @@
-## KODLUYORUZ REACT BOOTCAMP react-bootcamp-burger-builder
+## `KODLUYORUZ REACT BOOTCAMP react-bootcamp-burger-builder`
 
 This project was bootstrapped with Create React App.
 
